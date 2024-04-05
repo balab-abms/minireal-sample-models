@@ -1,7 +1,0 @@
-com/example/application/Agent.java
- com.example.application.Agent
-com/example/application/Model.java
- com.example.application.Model
-com/example/application/SimulationLauncherManual.java
- com.example.application.SimulationLauncherManual
- com.example.application.SimulationLauncherManual$1
