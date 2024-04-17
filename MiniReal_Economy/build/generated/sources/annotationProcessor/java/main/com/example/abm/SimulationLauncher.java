@@ -42,7 +42,6 @@ public class SimulationLauncher implements Runnable {
     int population = Integer.parseInt(sim_params.containsKey("population") ? sim_params.get("population").toString() : "50");
     int wealth = Integer.parseInt(sim_params.containsKey("wealth") ? sim_params.get("wealth").toString() : "50");
     int steps = Integer.parseInt(sim_params.containsKey("steps") ? sim_params.get("steps").toString() : "100");
-    int tick_delay = Integer.parseInt(sim_params.containsKey("tick_delay") ? sim_params.get("tick_delay").toString() : "100");
     Model model = new Model(population, wealth);
     do {
       boolean is_step = model.schedule.step(model);
@@ -53,7 +52,7 @@ public class SimulationLauncher implements Runnable {
       // send charting data;
       sendChartingData(model);
       try {
-        Thread.sleep(tick_delay);
+        Thread.sleep(250);
       } catch(InterruptedException e) {
         throw new RuntimeException(e);
       }
