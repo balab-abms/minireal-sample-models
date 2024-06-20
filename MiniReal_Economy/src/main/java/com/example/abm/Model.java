@@ -39,8 +39,9 @@ public class Model extends SimState  {
 			field.add(temp_agt);
 		}
 	}
-	@SimChart(name="Top10 Wealth")
-	public int lineChart()
+
+	@SimChart(name="top10")
+	public int top10wealth()
 	{
 		// sort the bag of the population
 		IntBag popln_wealth = new IntBag();
@@ -60,10 +61,25 @@ public class Model extends SimState  {
 		return top10_wealth_sum;
 	}
 
-	@SimDB(name = "agents_data")
-	public ArrayList<Agent> agentsToDB()
+	@SimChart(name="bottom10")
+	public int bottom10wealth()
 	{
-		return (ArrayList<Agent>) field.stream().collect(Collectors.toList());
+		// sort the bag of the population
+		IntBag popln_wealth = new IntBag();
+		// get the wealth in a intBag and sort it
+		((ArrayList<Agent>) field.stream().collect(Collectors.toList())).forEach((agt_arg) -> {
+			Agent agt = agt_arg;
+			popln_wealth.add(agt.getWealth());
+		});
+		popln_wealth.sort();
+		// get the sum of the top 10% wealth
+		int bottom10_wealth_sum = 0;
+		int bottom10_sz = (int) (population * 0.1);
+		for(int i=0; i<bottom10_sz; i++)
+		{
+			bottom10_wealth_sum += popln_wealth.get(i);
+		}
+		return bottom10_wealth_sum;
 	}
 
 	public static void main(String[] args) {
