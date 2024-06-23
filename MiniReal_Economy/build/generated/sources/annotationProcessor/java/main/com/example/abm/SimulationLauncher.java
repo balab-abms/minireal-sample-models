@@ -37,8 +37,8 @@ public class SimulationLauncher implements Runnable {
   @Override
   public void run() {
     // setup simulation and model arguments
-    int population = Integer.parseInt(sim_params.containsKey("population") ? sim_params.get("population").toString() : "50");
-    int wealth = Integer.parseInt(sim_params.containsKey("wealth") ? sim_params.get("wealth").toString() : "50");
+    int population = Integer.parseInt(sim_params.containsKey("population") ? sim_params.get("population").toString() : "500");
+    int wealth = Integer.parseInt(sim_params.containsKey("wealth") ? sim_params.get("wealth").toString() : "100");
     int steps = Integer.parseInt(sim_params.containsKey("steps") ? sim_params.get("steps").toString() : "100");
     Model model = new Model(population, wealth);
     do {
@@ -95,6 +95,6 @@ public class SimulationLauncher implements Runnable {
 
   public void sendChartingData(Model model) {
     sendKafkaData("chart", "top10", model.top10wealth());
-    sendKafkaData("chart", "bottom10", model.bottom10wealth());
+    sendKafkaData("chart", "bottom50", model.bottom50wealth());
   }
 }

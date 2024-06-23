@@ -34,7 +34,7 @@
           <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.30/b5a4b6d16ab13e34a88fae84c35cd5d68cac922c/slf4j-api-1.7.30.jar" />
           <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jcl/5.3.13/3aa15be194887fbda3912ecbb4ab6ec8dfdebdb0/spring-jcl-5.3.13.jar" />
         </processorPath>
-        <module name="MiniReal_Life.main" />
+        <module name="MiniReal_Economy.main" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

@@ -3,7 +3,6 @@ package com.example.abm;
 import lombok.Getter;
 import lombok.Setter;
 import org.simreal.annotation.SimAgent;
-import org.simreal.annotation.SimField;
 import sim.engine.Steppable;
 import sim.engine.SimState;
 import sim.util.Bag;
