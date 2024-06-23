@@ -9,7 +9,7 @@ import sim.util.IntBag;
 import java.util.ArrayList;
 import java.util.stream.Collectors;
 
-@SimModel()
+@SimModel
 @Getter
 @Setter
 public class Model extends SimState  {
