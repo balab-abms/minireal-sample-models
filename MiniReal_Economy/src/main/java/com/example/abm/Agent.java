@@ -14,8 +14,10 @@ public class Agent implements Steppable {
 	public static final long serialVersionUID = 1L;
 	public Model model;
 	private int wealth;
+	private String agent_id;
 	public Agent(Model model) {
 		this.model = model;
+		this.agent_id = String.valueOf(model.random.nextChar()) + model.random.nextInt(model.getPopulation());
 	}
 
 	public void step(SimState simState) {
@@ -26,7 +28,10 @@ public class Agent implements Steppable {
 	}
 	private void transact(Bag popln) {
 		// get a random agent from the population
-		Agent counterAgent = (Agent) popln.get(model.random.nextInt(popln.size()));
+		Agent counterAgent = null;
+		do {
+			counterAgent = (Agent) popln.get(model.random.nextInt(popln.size()));
+		}while(counterAgent.getAgent_id().equals(this.agent_id));
 		// transact wealth from current agent to random_agent
 		if(this.wealth > 0){
 			this.wealth -= 1;
