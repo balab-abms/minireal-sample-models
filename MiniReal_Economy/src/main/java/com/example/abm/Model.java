@@ -75,3 +75,4 @@ public class Model extends SimState  {
 		} while(model_obj.schedule.getSteps() < 100);
 	}
 }
+

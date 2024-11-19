@@ -17,7 +17,8 @@ public class Agent implements Steppable {
 	private String agent_id;
 	public Agent(Model model) {
 		this.model = model;
-		this.agent_id = String.valueOf(model.random.nextChar()) + model.random.nextInt(model.getPopulation());
+		this.agent_id = String.valueOf(model.random.nextChar()) +
+				model.random.nextInt(model.getPopulation());
 	}
 
 	public void step(SimState simState) {
