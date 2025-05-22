@@ -85,4 +85,13 @@ public class Life extends SimState {
     ArrayList<Agent> agents_list = (ArrayList<Agent>) life_world.getAllObjects().stream().collect(Collectors.toList());
     return agents_list;
   }
+
+  public static void main(String[] args) {
+    Life model_obj = new Life(5000000, 4000);
+    do {
+      boolean is_step = model_obj.schedule.step(model_obj);
+      if(!is_step) {	break;	}
+      System.out.println("tick = " + model_obj.schedule.getSteps());
+    } while(model_obj.schedule.getSteps() < 3);
+  }
 }

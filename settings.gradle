@@ -1,0 +1,5 @@
+// minireal-sample-models/settings.gradle
+rootProject.name = "minireal-sample-models"
+
+includeBuild("MiniReal_Economy")
+includeBuild("MiniReal_Life")

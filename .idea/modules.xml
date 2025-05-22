@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MiniReal_Economy.main.iml" filepath="$PROJECT_DIR$/.idea/modules/MiniReal_Economy.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MiniReal_Economy/MiniReal_Economy.main.iml" filepath="$PROJECT_DIR$/.idea/modules/MiniReal_Economy/MiniReal_Economy.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MiniReal_Life/MiniReal_Life.main.iml" filepath="$PROJECT_DIR$/.idea/modules/MiniReal_Life/MiniReal_Life.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/minireal-abms-models.iml" filepath="$PROJECT_DIR$/.idea/minireal-abms-models.iml" />
     </modules>
   </component>
