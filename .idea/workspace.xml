@@ -134,7 +134,33 @@
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="minireal-sample-models" type="f1a62948:ProjectNode" />
+                <item name="MiniReal_Economy" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="minireal-sample-models" type="f1a62948:ProjectNode" />
+                <item name="MiniReal_Economy" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="minireal-sample-models" type="f1a62948:ProjectNode" />
                 <item name="MiniReal_Life" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="minireal-sample-models" type="f1a62948:ProjectNode" />
+                <item name="MiniReal_Life" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="minireal-sample-models" type="f1a62948:ProjectNode" />
+                <item name="MiniReal_Life" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
               </path>
             </expand>
             <select />
@@ -173,6 +199,10 @@
     "Gradle.MiniReal_Economy [clean].executor": "Run",
     "Gradle.MiniReal_Life [build].executor": "Run",
     "Gradle.MiniReal_Life [clean].executor": "Run",
+    "Gradle.minireal-sample-models [:MiniReal_Economy:build].executor": "Run",
+    "Gradle.minireal-sample-models [:MiniReal_Economy:clean].executor": "Run",
+    "Gradle.minireal-sample-models [:MiniReal_Life:build].executor": "Run",
+    "Gradle.minireal-sample-models [:MiniReal_Life:clean].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -327,7 +357,7 @@
       <updated>1732049606181</updated>
       <workItem from="1732049608011" duration="1603000" />
       <workItem from="1732158780102" duration="99000" />
-      <workItem from="1747908765893" duration="512000" />
+      <workItem from="1747908765893" duration="985000" />
     </task>
     <servers />
   </component>
