@@ -5,91 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3e1794e-6997-4313-b2a4-c24999bc3ca2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/MiniReal_Life.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/simreal-abms-models.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy/.gradle/7.4/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/MiniReal_Economy/.gradle/7.4/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy/.gradle/7.4/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/MiniReal_Economy/.gradle/7.4/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy/.gradle/7.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/MiniReal_Economy/.gradle/7.4/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy/.gradle/7.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/MiniReal_Economy/.gradle/7.4/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy/.gradle/7.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/MiniReal_Economy/.gradle/7.4/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy/.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/MiniReal_Economy/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy/.gradle/7.4/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/MiniReal_Economy/.gradle/7.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.13/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.13/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.13/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniReal_Economy/.gradle/8.13/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/MiniReal_Economy/.gradle/8.13/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniReal_Economy/.gradle/8.13/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/MiniReal_Economy/.gradle/8.13/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MiniReal_Economy/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/MiniReal_Economy/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MiniReal_Economy/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MiniReal_Economy/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MiniReal_Economy/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy/build/classes/java/main/com/example/abm/Agent.class" beforeDir="false" afterPath="$PROJECT_DIR$/MiniReal_Economy/build/classes/java/main/com/example/abm/Agent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniReal_Economy/build/classes/java/main/com/example/abm/Model.class" beforeDir="false" afterPath="$PROJECT_DIR$/MiniReal_Economy/build/classes/java/main/com/example/abm/Model.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniReal_Economy/build/classes/java/main/com/example/abm/SimulationLauncher.class" beforeDir="false" afterPath="$PROJECT_DIR$/MiniReal_Economy/build/classes/java/main/com/example/abm/SimulationLauncher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniReal_Economy/build/classes/java/main/metaData.json" beforeDir="false" afterPath="$PROJECT_DIR$/MiniReal_Economy/build/classes/java/main/metaData.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniReal_Economy/build/generated/sources/annotationProcessor/java/main/com/example/abm/SimulationLauncher.java" beforeDir="false" afterPath="$PROJECT_DIR$/MiniReal_Economy/build/generated/sources/annotationProcessor/java/main/com/example/abm/SimulationLauncher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MiniReal_Economy/build/libs/MiniReal_Economy.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MiniReal_Economy/build/libs/MiniReal_Economy.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MiniReal_Economy/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/MiniReal_Economy/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy/src/main/java/com/example/abm/Agent.java" beforeDir="false" afterPath="$PROJECT_DIR$/MiniReal_Economy/src/main/java/com/example/abm/Agent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MiniReal_Economy/src/main/java/com/example/abm/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/MiniReal_Economy/src/main/java/com/example/abm/Model.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy_old/.gradle/7.4/checksums/checksums.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy_old/.gradle/7.4/checksums/md5-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy_old/.gradle/7.4/checksums/sha1-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy_old/.gradle/7.4/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy_old/.gradle/7.4/dependencies-accessors/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy_old/.gradle/7.4/executionHistory/executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy_old/.gradle/7.4/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy_old/.gradle/7.4/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy_old/.gradle/7.4/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy_old/.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy_old/.gradle/7.4/fileHashes/resourceHashesCache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy_old/.gradle/7.4/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy_old/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy_old/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy_old/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy_old/.gradle/checksums/checksums.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy_old/.gradle/checksums/md5-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy_old/.gradle/checksums/sha1-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy_old/.gradle/configuration-cache/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy_old/.gradle/vcs-1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy_old/.gradle/workspace-id.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy_old/.gradle/workspace-id.txt.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy_old/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy_old/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy_old/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy_old/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy_old/.idea/jpa-buddy.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy_old/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy_old/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy_old/.idea/modules/SimReal_Economy.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy_old/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy_old/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy_old/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy_old/build/classes/java/main/com/example/abm/Agent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy_old/build/classes/java/main/com/example/abm/Model.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy_old/build/classes/java/main/com/example/abm/SimulationLauncher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy_old/build/classes/java/main/metaData.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy_old/build/generated/sources/annotationProcessor/java/main/com/example/abm/SimulationLauncher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy_old/build/libs/MiniReal_Economy.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy_old/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy_old/build/tmp/jar/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy_old/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy_old/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy_old/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy_old/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy_old/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy_old/src/main/java/com/example/abm/Agent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy_old/src/main/java/com/example/abm/Model.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Economy_old/src/main/java/metaData.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Life.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Life/.gradle/7.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/MiniReal_Life/.gradle/7.4/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Life/.gradle/7.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/MiniReal_Life/.gradle/7.4/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Life/.gradle/7.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/MiniReal_Life/.gradle/7.4/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Life/.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/MiniReal_Life/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Life/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/MiniReal_Life/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Life/build/libs/MiniReal_Life.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MiniReal_Life/build/libs/MiniReal_Life.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniReal_Life/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/MiniReal_Life/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,18 +102,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "panderior"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;panderior&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/balab-abms/minireal-sample-models.git",
-    "accountId": "1b4073f4-e3cd-405b-8bc5-621330cb0ec5"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/balab-abms/minireal-sample-models.git&quot;,
+    &quot;accountId&quot;: &quot;1b4073f4-e3cd-405b-8bc5-621330cb0ec5&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 5
@@ -193,32 +123,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.MiniReal_Economy [build].executor": "Run",
-    "Gradle.MiniReal_Economy [clean].executor": "Run",
-    "Gradle.MiniReal_Life [build].executor": "Run",
-    "Gradle.MiniReal_Life [clean].executor": "Run",
-    "Gradle.minireal-sample-models [:MiniReal_Economy:build].executor": "Run",
-    "Gradle.minireal-sample-models [:MiniReal_Economy:clean].executor": "Run",
-    "Gradle.minireal-sample-models [:MiniReal_Life:build].executor": "Run",
-    "Gradle.minireal-sample-models [:MiniReal_Life:clean].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.MiniReal_Economy [build].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.MiniReal_Economy [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.MiniReal_Life [build].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.MiniReal_Life [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.minireal-sample-models [:MiniReal_Economy:build].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.minireal-sample-models [:MiniReal_Economy:clean].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.minireal-sample-models [:MiniReal_Life:build].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.minireal-sample-models [:MiniReal_Life:clean].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Gradle.minireal-sample-models [:MiniReal_Life:build]">
+}</component>
+  <component name="RunManager" selected="Gradle.minireal-sample-models [:MiniReal_Economy:build]">
     <configuration name="MiniReal_Life [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -331,10 +261,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.minireal-sample-models [:MiniReal_Life:build]" />
         <item itemvalue="Gradle.minireal-sample-models [:MiniReal_Economy:build]" />
-        <item itemvalue="Gradle.minireal-sample-models [:MiniReal_Life:clean]" />
         <item itemvalue="Gradle.minireal-sample-models [:MiniReal_Economy:clean]" />
+        <item itemvalue="Gradle.minireal-sample-models [:MiniReal_Life:build]" />
+        <item itemvalue="Gradle.minireal-sample-models [:MiniReal_Life:clean]" />
         <item itemvalue="Gradle.MiniReal_Life [build]" />
       </list>
     </recent_temporary>
@@ -342,8 +272,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.25410.129" />
-        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-IU-251.25410.129" />
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26927.53" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.26927.53" />
       </set>
     </attachedChunks>
   </component>
@@ -358,6 +288,7 @@
       <workItem from="1732049608011" duration="1603000" />
       <workItem from="1732158780102" duration="99000" />
       <workItem from="1747908765893" duration="985000" />
+      <workItem from="1752656080427" duration="1278000" />
     </task>
     <servers />
   </component>

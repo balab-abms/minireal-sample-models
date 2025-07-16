@@ -101,7 +101,6 @@ public class SimulationLauncher implements Runnable {
   }
 
   public void sendChartingData(Model model) {
-    sendKafkaData(model, "chart", batch_comb_name + "top10", model.top10wealth());
-    sendKafkaData(model, "chart", batch_comb_name + "bottom50", model.bottom50wealth());
+    sendKafkaData(model, "chart", batch_comb_name + "Gini", model.computeGini());
   }
 }
